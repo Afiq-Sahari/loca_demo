@@ -1,0 +1,6 @@
+{
+  "language": "Malay",
+  "helloWorld": "Apa Khabar Dunia",
+  "multiLanguage": "Pelbagai Bahasa",
+  "hello": "Apa Khabar {username}"
+}
